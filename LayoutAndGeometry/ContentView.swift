@@ -27,6 +27,7 @@ struct ContentView: View {
         }
     }
 }
+//comment out the content view above and try the one below
 /*
  struct ContentView: View {
      let colors: [Color] = [.red, .green, .blue, .orange, .pink, .purple, .yellow]
